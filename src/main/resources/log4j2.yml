@@ -31,6 +31,6 @@ Configuration:
         - ref: ROLLING_FILE
     logger:
       - name: org.springframework
-        level: debug
+        level: info
       - name: org.gitqh.nba
         level: debug
